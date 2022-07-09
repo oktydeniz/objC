@@ -1,0 +1,14 @@
+{
+    "people":[
+        {
+            "name":"deniz",
+            "age":24,
+            "gender":"man"
+        },
+        {
+            "name":"oktay",
+            "age":23,
+            "gender":"man"
+        }
+    ]
+}
